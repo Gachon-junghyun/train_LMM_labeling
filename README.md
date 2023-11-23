@@ -1,4 +1,7 @@
-# train_LMM_labeling
+# train_LLM_labeling
+
+![img](image/projec_name.png)
+
 It was created by a student attending Gachon University. It is a project to create a proposition and learn it from LMM under the assumption that the text from ppt is definition and explanation. Thank you for reading it.
 
 <span style="color:red">
