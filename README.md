@@ -38,14 +38,7 @@ It was created by a student attending Gachon University. It is a project to crea
 <hr>
 <br>
 
-<span style="color:green">
-분단은 나누는 기준은 글씨의 크기와 얼마큼 떨어져있는가로 측정된 것을 유기적으로 활용할 계획이다.
 
-</span>
-
-ㄴ The division plans to organically utilize what is measured as being separated from the size of the writing
-
-#### 아래 오는 이미지는 첫번째는 원본이다. 두번째는 임계값을 이용해서 검은색과 흰색으로 나눴다. 이것을 dliete를 활용해서 확장시켰고 opencv를 통해 뭉탱이로 뭉쳤다.
 
 ![img](image/split_list.png)
 
@@ -58,6 +51,15 @@ It was created by a student attending Gachon University. It is a project to crea
 
     issus 하지만 아직 그 명제를 질문으로 바꾸고 질 좋은 데이터로 어떻게 변화할지는 구상중이다.
 
+ㄴ The division plans to organically utilize what is measured as being separated from the size of the writing
+
+
+<span style="color:green">
+<h3>
+문장을 나누는 기준은 글씨의 크기와 얼마큼 떨어져있는가로 측정된 것을 유기적으로 활용할 계획이다.
+</h3>
+</span>
+
 <hr>
 
 ### P L A N 1
@@ -67,6 +69,9 @@ It was created by a student attending Gachon University. It is a project to crea
 <hr>
 
 ### P L A N 2
+
+#### 아래 오는 이미지는 첫번째는 원본이다. 두번째는 임계값을 이용해서 검은색과 흰색으로 나눴다. 이것을 dliete를 활용해서 확장시켰고 opencv를 통해 뭉탱이로 뭉쳤다.
+
 
 ![img](image/github_detect_text_clusting.png)
 
