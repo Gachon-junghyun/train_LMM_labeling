@@ -112,7 +112,12 @@ It was created by a student attending Gachon University. It is a project to crea
 
     추통이나 욕구와 같은 한글은 인식을 잘 못함
     또한 가장 중요한 상위 개념(제목)도 인지하지 못함
+    띄어쓰기도 해야함
 
+### 1.1.1
+버전 모델로 save.txt 모델을 만들었는데 정확도가 정말 처참함 사용불가 수준(하려면 사람이 다 해야함)
+
+    save.txt 참조바람
 
 #### 해결책 이를 해결해야함 못하면 하나하나 데이터 수정해야함
 
