@@ -121,7 +121,7 @@ It was created by a student attending Gachon University. It is a project to crea
 
 #### 해결책 이를 해결해야함 못하면 하나하나 데이터 수정해야함
 
+
 <hr>
 
-
-## 텍스트 인식이 아닌 pdf2text로 추출했는데 정확도랑 상위개념과 하위개념을 구분도 가능해서 텍스트 인식 방안은 폐지
+텍스트 인식이 아닌 pdf2text로 추출했는데 정확도랑 상위개념과 하위개념을 구분도 가능해서 텍스트 인식 방안은 폐지
